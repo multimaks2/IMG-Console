@@ -1,40 +1,21 @@
-========================================================================
-    CONSOLE APPLICATION : fastman92 IMG Console Project Overview
-========================================================================
-
-AppWizard has created this fastman92 IMG Console application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your fastman92 IMG Console application.
-
+Это описание проекта консольного приложения fastman92 IMG. В данном файле содержится краткое описание того, что вы найдете в каждом из файлов, составляющих приложение fastman92 IMG Console.
 
 fastman92 IMG Console.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+Этот файл является основным файлом проекта для проектов VC++, созданных с помощью мастера создания приложений. Он содержит информацию о версии Visual C++, которая создала файл, а также информацию о платформах, конфигурациях и функциях проекта, выбранных с помощью мастера создания приложений.
 
 fastman92 IMG Console.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+Этот файл фильтров является файлом для проектов VC++, созданных с помощью мастера создания приложений. Он содержит информацию о связи между файлами в вашем проекте и фильтрами. Эта связь используется в среде разработки для группировки файлов с однотипными расширениями под определенным узлом (например, файлы ".cpp" связаны с фильтром "Source Files").
 
 fastman92 IMG Console.cpp
-    This is the main application source file.
+Это основной файл исходного кода приложения.
 
 /////////////////////////////////////////////////////////////////////////////
-Other standard files:
+Другие стандартные файлы:
 
 StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named fastman92 IMG Console.pch and a precompiled types file named StdAfx.obj.
+Эти файлы используются для создания файлов предварительно скомпилированных заголовков (PCH). и файла предварительно скомпилированных типов с именем StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
-Other notes:
+Другие заметки:
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+Мастер создания приложений использует комментарии "TODO:" для указания частей исходного кода, которые вы должны добавить или настроить.
